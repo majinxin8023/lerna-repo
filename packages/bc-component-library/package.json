@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://mirrors.huaweicloud.com/repository/npm/",
+    "registry": "http://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
