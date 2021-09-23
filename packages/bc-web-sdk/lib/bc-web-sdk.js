@@ -4,5 +4,5 @@ module.exports = bcWebSdk;
 
 function bcWebSdk() {
     // TODO
-    console.log('22222')
+    console.log('1111')
 }
