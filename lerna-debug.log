@@ -1,4 +1,5 @@
 15 error Error: Command failed with exit code 1: git remote update
+15 error Warning: Permanently added the RSA host key for IP address '13.250.177.223' to the list of known hosts.
 15 error git@github.com: Permission denied (publickey).
 15 error fatal: Could not read from remote repository.
 15 error
