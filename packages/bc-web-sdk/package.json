@@ -2,7 +2,7 @@
   "name": "bc-web-sdk",
   "version": "0.0.6",
   "description": "公共校验SDK",
-  "author": "Mr.ma <mjx546946@163.com>",
+  "author": "majinxin",
   "homepage": "",
   "license": "ISC",
   "main": "lib/bc-web-sdk.js",
